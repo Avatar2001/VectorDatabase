@@ -1,7 +1,6 @@
 # VectorDatabase
 
 
-```markdown
 # 📖 Arabic Semantic Search with ChromaDB & FAISS
 
 This project builds a semantic search system for Arabic documents using dense vector embeddings. It integrates **Hugging Face Datasets**, **Sentence Transformers**, **ChromaDB**, and **FAISS** to enable efficient document retrieval based on semantic similarity to a given question.
